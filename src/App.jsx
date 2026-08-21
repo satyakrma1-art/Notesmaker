@@ -37,12 +37,12 @@ const App = () => {
   }
 
   const weatherIcons = {
-    Clear: "src/assets/clear.png",
-    Clouds: "src/assets/cloudy.png",
-    Mist: "src/assets/mist.png",
-    Drizzle: "src/assets/drizzle.png",
-    Rain: "src/assets/rain.png",
-    Thunderstorm: "src/assets/thunder.png",
+    Clear: "src/clear.png",
+    Clouds: "src/cloudy.png",
+    Mist: "src/mist.png",
+    Drizzle: "src/drizzle.png",
+    Rain: "src/rain.png",
+    Thunderstorm: "src/thunder.png",
     Snow: "src/assets/snow.png",
 
   };
